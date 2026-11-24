@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Entry for make.fun bounty 'One Word, One Username, One Reward'.
 
-Writes the entrant's own make.fun username, one word and nothing else,
+Writes the entrant's own username, one word and nothing else,
 to /output/entry.txt. Deterministic: no network, no randomness, no input.
 
 Craft notes: this username works against the judge's criteria because it
@@ -12,7 +12,7 @@ one identity rather than two words stapled together.
 """
 import os
 
-ENTRY = "muhammad-rino"  # 13 chars, within the gate's 1-30 character limit
+ENTRY = "rinoo9"  # 6 chars, within the gate's 1-30 character limit
 
 
 def main() -> None:
