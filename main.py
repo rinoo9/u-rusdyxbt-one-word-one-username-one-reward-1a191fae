@@ -12,7 +12,7 @@ one identity rather than two words stapled together.
 """
 import os
 
-ENTRY = "rinoo9"  # 6 chars, within the gate's 1-30 character limit
+ENTRY = "muhammad-rino"  # 13 chars, within the gate's 1-30 character limit
 
 
 def main() -> None:
